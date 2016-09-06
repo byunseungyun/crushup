@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://crushup.xyz/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
